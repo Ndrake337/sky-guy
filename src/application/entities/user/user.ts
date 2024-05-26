@@ -1,4 +1,4 @@
-import { randomUUID, verify } from 'crypto';
+import { randomUUID } from 'crypto';
 
 export interface UserProps {
   userName: string;
